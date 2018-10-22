@@ -1,4 +1,4 @@
-这是一份关于 Pandas 的系列教程，包含了 Pandas 中的各个方面。
+这是一份关于 Pandas 的系列教程，包含了 Pandas 中的各个方面。看完之后，如果想做一些数据分析的练习题，请看 [data_analysis_practice](https://github.com/wangwei-tongxue/data_analysis_practice)。
 
 # Version
 
